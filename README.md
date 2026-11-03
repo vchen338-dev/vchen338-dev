@@ -1,18 +1,67 @@
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=vchen338-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226549951%3Fu%3D5d8ce4c7b7c4030db940982d6e5b46a5c9f8eb55%26v%3D4" alt="vchen338-dev hero visual" />
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vchen338-dev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vchen338-dev&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vchen338-dev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center"><b>SkyX</b> · Computer Science Student<br/><sub>Building in public on GitHub.</sub></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vchen338-dev&theme=holi&no-frame=false&no-bg=true&margin-w=4)
+<p align="center"><a href="https://github.com/vchen338-dev">GitHub</a></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=vchen338-dev&icon=1&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=vchen338-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226549951%3Fu%3D5d8ce4c7b7c4030db940982d6e5b46a5c9f8eb55%26v%3D4" alt="vchen338-dev projects visual" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- [Attendance-Sys.-QR](https://github.com/vchen338-dev/Attendance-Sys.-QR) · ★ 0 — A fast and efficient attendance system that uses QR code scanning for quick check-ins and check-outs
+- [CSharp-ATM-Simulation-Offline](https://github.com/vchen338-dev/CSharp-ATM-Simulation-Offline) · ★ 0 — An offline ATM simulation system built with C# WinForms, designed to mimic basic banking functions s
+- [AquaSense](https://github.com/vchen338-dev/AquaSense) · ★ 0
+- [BytePath](https://github.com/vchen338-dev/BytePath) · ★ 0
+- [vchen338-dev](https://github.com/vchen338-dev/vchen338-dev) · ★ 0
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=vchen338-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226549951%3Fu%3D5d8ce4c7b7c4030db940982d6e5b46a5c9f8eb55%26v%3D4" alt="vchen338-dev stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>5</b> public repositories, <b>0</b> stars, <b>60</b> contributions in the last year, a longest streak of <b>5</b> days and <b>1</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=vchen338-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226549951%3Fu%3D5d8ce4c7b7c4030db940982d6e5b46a5c9f8eb55%26v%3D4" alt="vchen338-dev stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=vchen338-dev&theme=neon" alt="vchen338-dev contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=vchen338-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226549951%3Fu%3D5d8ce4c7b7c4030db940982d6e5b46a5c9f8eb55%26v%3D4" alt="vchen338-dev social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>SkyX · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
