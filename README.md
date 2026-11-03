@@ -64,4 +64,4 @@
 
 </details>
 
-<p align="center"><sub>SkyX · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
